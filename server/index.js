@@ -7,7 +7,6 @@ const path = require('path')
 
 const app = express()
 
-const io = require('socket.io')(http.createServer(app))
 app.use(express.static(path.join(__dirname, '..', 'public')));
 
 const PORT = 3000
