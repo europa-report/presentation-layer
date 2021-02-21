@@ -1,8 +1,12 @@
 # redditproject
 **Joel Parker**
+
 **Edward Riley**
+
 **Dishant Mishra**
+
 **Amina Mahmood**
+
 **Vincent Cheng**
 
 
